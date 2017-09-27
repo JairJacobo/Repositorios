@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>Seleccionar</item>
+        <item>JavaScript</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>CSS</item>
+        <item>PHP</item>
+        <item>Ruby</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Shell</item>
+        <item>C#</item>
+        <item>Objective-C</item>
+        <item>R</item>
+        <item>VimL</item>
+        <item>Go</item>
+        <item>Perl</item>
+        <item>CoffeScript</item>
+        <item>Swift</item>
+        <item>TeX</item>
+        <item>Scala</item>
+        <item>Emacs Lisp</item>
+        <item>Haskell</item>
+        <item>Lua</item>
+        <item>Clojure</item>
+        <item>Makefile</item>
+        <item>Groovy</item>
+        <item>Puppet</item>
+        <item>Rust</item>
+        <item>Power Shell</item>
+        <item>Kotlin</item>
+        <item>HTML</item>
+    </string-array>
+</resources>
